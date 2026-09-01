@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a37f3f8a-60cb-4173-aee6-4928040620b1/resourceGroups/sistemaMvc/providers/Microsoft.Web/sites/SistemaMvcRodrigo"
+}
