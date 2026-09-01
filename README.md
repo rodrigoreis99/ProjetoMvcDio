@@ -22,6 +22,8 @@
 
 <br>
 
+
+
 ___
 
 
@@ -34,4 +36,14 @@ ___
 
 #### Colocar "Encrypt=False" no final da conexão na ConnectionStrings
 > "ConexaoPadrao" : "Server=localhost\\sqlexpress; Initial Catalog=AgendaMvc; Integrated Security=True; Encrypt=False"
+
+#### Deploy na Azure
+<img width="1327" height="518" alt="DeployMvcAzure" src="https://github.com/user-attachments/assets/6c295311-4991-4857-a986-c5e1ed6c3603" />
+
+#### Aplicação x Banco de Dados Azure
+ <img width="1237" height="656" alt="DeployMvcAzure2" src="https://github.com/user-attachments/assets/c766299c-e1d0-4f2a-9240-b0eee692f87e" />
+
+#### Recursos Azure
+<img width="1193" height="274" alt="DeployMvcAzure_recusos" src="https://github.com/user-attachments/assets/a4c1207f-c153-4755-98f1-036aa58ad3b7" />
+
 
