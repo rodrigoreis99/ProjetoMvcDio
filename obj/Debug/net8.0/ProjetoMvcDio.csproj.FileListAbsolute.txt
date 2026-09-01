@@ -134,3 +134,5 @@ C:\Users\rodri\Desktop\DesafioDiOSQL\Projeto_MVC\ProjetoMvcDio\obj\Debug\net8.0\
 C:\Users\rodri\Desktop\DesafioDiOSQL\Projeto_MVC\ProjetoMvcDio\obj\Debug\net8.0\ref\ProjetoMvcDio.dll
 C:\Users\rodri\Desktop\DesafioDiOSQL\Projeto_MVC\ProjetoMvcDio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\rodri\Desktop\DesafioDiOSQL\Projeto_MVC\ProjetoMvcDio\obj\Debug\net8.0\scopedcss\projectbundle\ProjetoMvcDio.bundle.scp.css
+C:\Users\rodri\Desktop\DesafioDiOSQL\Projeto_MVC\ProjetoMvcDio\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\rodri\Desktop\DesafioDiOSQL\Projeto_MVC\ProjetoMvcDio\obj\Debug\net8.0\ProjetoMvcDio.sourcelink.json
